@@ -2,7 +2,7 @@ spring.application.name: search-service
 spring:
   data:
     redis:
-      host: localhost
+      host: myredis
       port: 6379
   output:
     ansi:
